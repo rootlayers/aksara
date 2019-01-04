@@ -1,2 +1,2 @@
-# aksara
+# Aksara
 WordPress Theme
